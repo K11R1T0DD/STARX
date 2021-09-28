@@ -1,5 +1,5 @@
 #include<iostream>
-
+//code by Rijal Si Pemburu Janda
 using namespace std; 
 int main () 
 { 	
@@ -8,9 +8,9 @@ int main ()
    do 	
    { 	
    cout<<"          JANGAN LUPA MAKAN        	"<<endl; 
-   cout<<"          menawarkan layanan pesan    "<<endl;
-   cout<<"          makanan dan minuman         "<<endl;
-   cout<<"          pesan antar dalam kota      "<<endl;
+   cout<<"          Menawarkan layanan pesan    "<<endl;
+   cout<<"          Makanan dan minuman         "<<endl;
+   cout<<"          Pesan antar dalam kota      "<<endl;
    cout<<"======================================"<<endl;
    cout<<""<<endl;
    cout<<"  Menu Makanan                Harga "<<endl;
